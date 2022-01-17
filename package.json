@@ -1,0 +1,23 @@
+{
+  "name": "fem13_huddle-landing-page-alt-blocks",
+  "version": "1.0.0",
+  "description": "My solution to a Frontend Mentor challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anoshaahmed/fem13-huddle-landing-page-alt-blocks.git"
+  },
+  "author": "Anosha Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anoshaahmed/fem13-huddle-landing-page-alt-blocks/issues"
+  },
+  "homepage": "https://github.com/anoshaahmed/fem13-huddle-landing-page-alt-blocks#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}

@@ -1,0 +1,40 @@
+body {
+    font-size: $fs-normal;
+}
+
+.heading {
+    color: $clr-dark-cyan;
+    font-family: $ff-heading;
+
+    &--main {
+        font-size: 4rem;
+        letter-spacing: -0.3px;
+    }
+}
+
+.p {
+    line-height: 1.5;
+    font-size: 1.8rem;
+    font-family: $ff-body;
+    
+    &--header {
+        color: $clr-dark-cyan;
+    }
+}
+
+.btn {
+    font-size: 1.425rem;
+    font-family: $ff-body;
+    font-weight: $fw-body-bold;
+    letter-spacing: -0.15px;
+    // letter-spacing: -0.3px;
+
+
+
+    &--white {
+        color: $clr-dark-cyan;
+    }
+    &--pink {
+        color: $clr-white;
+    }
+}
