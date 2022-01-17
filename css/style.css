@@ -1,0 +1,104 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit; }
+
+html {
+  font-size: 62.5%; }
+
+body {
+  box-sizing: border-box; }
+
+body {
+  font-size: 1.8rem; }
+
+.heading {
+  color: #00252e;
+  font-family: "Poppins", sans-serif; }
+  .heading--main {
+    font-size: 4rem;
+    letter-spacing: -0.3px; }
+
+.p {
+  line-height: 1.5;
+  font-size: 1.8rem;
+  font-family: "Open Sans", sans-serif; }
+  .p--header {
+    color: #00252e; }
+
+.btn {
+  font-size: 1.425rem;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.15px; }
+  .btn--white {
+    color: #00252e; }
+  .btn--pink {
+    color: white; }
+
+.btn:link, .btn:visited {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  text-align: center;
+  border-radius: 10rem;
+  padding-inline: 6.47rem; }
+
+.btn--white {
+  background-color: white;
+  height: 4.8rem;
+  max-width: 20rem;
+  box-shadow: 0 3px 10px -1px rgba(0, 0, 0, 0.1);
+  padding-bottom: 1px; }
+
+.btn--pink {
+  background-color: #ff52bf;
+  height: 5.6rem;
+  max-width: 28rem;
+  box-shadow: 0 3px 10px -1px rgba(255, 82, 191, 0.5);
+  padding-bottom: 2px; }
+
+.attribution {
+  font-size: 11px;
+  text-align: center; }
+
+.attribution a {
+  color: #3e52a3; }
+
+.header {
+  background-image: url(../../images/bg-hero-desktop.svg);
+  background-repeat: no-repeat;
+  background-color: #ebfbff;
+  padding: 4.7rem 8rem;
+  height: 72rem; }
+  .header__top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 6.5rem; }
+    .header__top .title-img {
+      height: 3.1rem;
+      width: 20rem;
+      margin-top: 0.2rem; }
+      .header__top .title-img img {
+        width: 100%;
+        height: 100%; }
+  .header__bottom {
+    display: flex;
+    align-items: center; }
+    .header__bottom__text {
+      width: 45.6%;
+      padding-right: 7rem;
+      padding-top: 1.5rem; }
+      .header__bottom__text .p {
+        margin: 3rem 0 3.25rem; }
+    .header__bottom__img {
+      width: 54.4%;
+      display: flex;
+      justify-content: center;
+      padding-right: 0.5rem; }
+      .header__bottom__img img {
+        width: 100%; }
