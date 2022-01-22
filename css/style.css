@@ -445,7 +445,7 @@ body {
     height: 4rem; } }
 
 .header {
-  background: #ebfbff url(../../images/bg-hero-desktop.svg) no-repeat;
+  background: #ebfbff url(./../images/bg-hero-desktop.svg) no-repeat;
   padding: 4.7rem 8rem;
   height: 72rem; }
   .header__top {
@@ -488,7 +488,7 @@ body {
 
 @media (max-width: 77em) {
   .header {
-    background: #ebfbff url(../../images/bg-hero-mobile.svg) no-repeat;
+    background: #ebfbff url(./../images/bg-hero-mobile.svg) no-repeat;
     background-size: contain;
     padding: 4.7rem 3rem;
     height: 122rem; }

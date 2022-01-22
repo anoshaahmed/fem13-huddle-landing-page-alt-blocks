@@ -1,5 +1,5 @@
 .header {
-    background: $clr-pale-cyan url(../../images/bg-hero-desktop.svg) no-repeat;
+    background: $clr-pale-cyan url(./../images/bg-hero-desktop.svg) no-repeat;
     padding: 4.7rem 8rem;
     height: 72rem;
     &__top {
@@ -41,7 +41,7 @@
 }
 @media (max-width:$bp-lg) {
     .header {
-        background: $clr-pale-cyan url(../../images/bg-hero-mobile.svg) no-repeat;
+        background: $clr-pale-cyan url(./../images/bg-hero-mobile.svg) no-repeat;
         background-size: contain;
         padding: 4.7rem 3rem;
         height: 122rem;
