@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](#)
-- Live Site URL: [Add live site URL here](https://anoshaahmed.github.io/fem13-huddle-landing-page-alt-blocks/)
+- Solution URL: [FrontEnd Mentor: My Solution](https://www.frontendmentor.io/solutions/clipboard-landing-page-sass-flexbox-responsive-mobilefirst-BJpuNk6fZ)
+- Live Site URL: [GitHub Page: Clipboard Landing Page](https://anoshaahmed.github.io/fem13-huddle-landing-page-alt-blocks/)
 
 ### Screenshots
 
