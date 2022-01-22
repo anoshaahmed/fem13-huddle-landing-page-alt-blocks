@@ -71,4 +71,4 @@ The mobile design VS My mobile solution<br>
 
 ## Acknowledgments
 
-@vanzasetia told me about the `focus-visible` pseudoelement.
+[@vanzasetia] told me about the `focus-visible` pseudoelement.
