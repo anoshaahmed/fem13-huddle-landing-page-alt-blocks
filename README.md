@@ -28,11 +28,21 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](#)
-- Live Site URL: [Add live site URL here](#)
+- Live Site URL: [Add live site URL here](https://anoshaahmed.github.io/fem13-huddle-landing-page-alt-blocks/)
 
 ### Screenshots
 
-- 
+<div align="center">
+The desktop design VS My desktop solution<br>
+<a href="challenge/desktop-design.jpg" target="_blank"><img src="challenge/desktop-design.jpg" width="45%" height="60%"/></a> <a href="solution-screenshots/desktop-preview.png" target="_blank"><img src="solution-screenshots/desktop-preview.png" width="45%" height="60%" align="top"/></a>
+</div>
+
+<br>
+
+<div align="center">
+The mobile design VS My mobile solution<br>
+<a href="challenge/mobile-design.jpg" target="_blank"><img src="challenge/mobile-design.jpg" width="20%" height="20%"/></a> <a href="solution-screenshots/desktop-preview.png" target="_blank"><img src="solution-screenshots/mobile-preview.png" width="20%" height="20%" align="top"/></a>
+</div>
 
 ## My process
 
@@ -41,16 +51,17 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
-- Mobile-first workflow
+- Desktop-first workflow
 
 ### What I learned
 
-- 
+- Keyframes
+- Focus-visibility pseudoelement
+- Animation-fill-mode property
 
 ### Continued development
 
-- 
+- For this project, I used desktop-first approach after a long time of not using it. And it really helped me understand once and for all, that that is the best approach. I spent a lot of time working on media queries (smh). So, in the future, I will always design mobile-first.
 
 ### Useful resources
 
@@ -66,4 +77,4 @@ Users should be able to:
 
 ## Acknowledgments
 
-- 
+@vanzasetia told me about the `focus-visible` pseudoelement.
