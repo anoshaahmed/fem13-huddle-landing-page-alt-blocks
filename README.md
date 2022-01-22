@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [FrontEnd Mentor: My Solution](https://www.frontendmentor.io/solutions/clipboard-landing-page-sass-flexbox-responsive-mobilefirst-BJpuNk6fZ)
-- Live Site URL: [GitHub Page: Clipboard Landing Page](https://anoshaahmed.github.io/fem13-huddle-landing-page-alt-blocks/)
+- Solution URL: [FrontEnd Mentor: My Solution](https://www.frontendmentor.io/solutions/huddle-page-w-alt-feature-blocks-sass-flexbox-responsive-0DET9xX08)
+- Live Site URL: [GitHub Page: Huddle landing page with alternating feature blocks](https://anoshaahmed.github.io/fem13-huddle-landing-page-alt-blocks/)
 
 ### Screenshots
 
