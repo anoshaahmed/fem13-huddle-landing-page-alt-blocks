@@ -12,7 +12,6 @@ This is a solution to the [Huddle landing page with alternating feature blocks c
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -62,11 +61,6 @@ The mobile design VS My mobile solution<br>
 ### Continued development
 
 - For this project, I used desktop-first approach after a long time of not using it. And it really helped me understand once and for all, that that is the best approach. I spent a lot of time working on media queries (smh). So, in the future, I will always design mobile-first.
-
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
