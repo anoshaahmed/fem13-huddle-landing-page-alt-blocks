@@ -60,7 +60,7 @@ The mobile design VS My mobile solution<br>
 
 ### Continued development
 
-- For this project, I used desktop-first approach after a long time of not using it. And it really helped me understand once and for all, that that is the best approach. I spent a lot of time working on media queries (smh). So, in the future, I will always design mobile-first.
+- For this project, I used desktop-first approach after a long time of not using it. And it really helped me understand, once and for all, why mobile-first is the best approach. I spent a lot of time working on media queries (smh). So, in the future, I will always design mobile-first.
 
 ## Author
 
